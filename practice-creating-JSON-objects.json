@@ -1,0 +1,20 @@
+{
+    "title": "Thunderbolts*",
+    "year": 2025,
+    "IsAvailable": true,
+    "genres": ["action", "comedy", "drama"],
+    "cast": [
+        {
+            "name": "Florence Pugh",
+            "role": "Lead Actress"
+        },
+        {
+            "name": "Lewis Pullman",
+            "role": "Lead Actor"
+        },
+        {
+            "name": "Wyatt Russel",
+            "role": "Lead Actor"
+        }
+    ]
+}
